@@ -4,5 +4,7 @@ Recursos Interactius Aplicats
 ## Manuals i guies
 
 [w3schools](https://www.w3schools.com/)
+
 [codepen](https://codepen.io)
+
 [codrops](https://tympanus.net/codrops/)
