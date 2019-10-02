@@ -1,2 +1,2 @@
-# [2Ilustracio](https://arquesm.github.io/2Ilustracio/)
+# [2Il·lustracio](https://arquesm.github.io/2Ilustracio/)
 Recursos Interactius Aplicats
