@@ -2,7 +2,7 @@
 Recursos Interactius Aplicats
 
 ## Treballs
-[títol del treball](https://arquesm.github.io/5_mondrian/)
+[5_mondrian](https://arquesm.github.io/5_mondrian/)
 
 ## Manuals i guies
 
