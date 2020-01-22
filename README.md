@@ -16,3 +16,5 @@ Recursos Interactius Aplicats
 [cuves bézier](https://codepen.io/thebabydino/pen/EKLNvZ)
 
 [quadratic curves bézier](https://codepen.io/rachsmith/pen/xGVVrm)
+
+[sheet svg code](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/)
