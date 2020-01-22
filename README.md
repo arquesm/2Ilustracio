@@ -11,3 +11,8 @@ Recursos Interactius Aplicats
 [codepen](https://codepen.io)
 
 [codrops](https://tympanus.net/codrops/)
+
+### svg
+[cuves bézier](https://codepen.io/thebabydino/pen/EKLNvZ)
+
+[quadratic curves bézier](https://codepen.io/rachsmith/pen/xGVVrm)
